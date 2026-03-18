@@ -1,0 +1,13 @@
+.fs-12{
+    font-size: 12px;
+}
+.d-block-r{
+    display: block !important;
+}
+.b-0{
+    border: 0px;
+}
+.b-0:focus-visible{
+    border: 0px;
+    box-shadow: none;
+}
